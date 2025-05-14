@@ -2,7 +2,7 @@
 
 ---
 
-A simple and responsive note taking app made using **HTML**, **CSS**, and **JavaScript(tkinter)**. This app allows users to perform basic operations like adding a new note, editing an existing one, or removing them.
+A simple and responsive note taking app made using **HTML**, **CSS**, and **JavaScript (tkinter)**. This app allows users to perform basic operations like adding a new note, editing an existing one, or removing them.
 
 ---
 
@@ -22,7 +22,6 @@ A simple and responsive note taking app made using **HTML**, **CSS**, and **Java
 1. Clone this repository:
    ```bash
    git clone https://github.com/teo003/note-app-js.git
-  ```
 
 ---
 
